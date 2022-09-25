@@ -1,8 +1,11 @@
 # image-processing-python
 
 This repository contain some image processing using python
+
 Content:
-###1. Image Filtering with python:
+
+## 1. Image Filtering with python:
+
 - Median Filtering
 - Average Filtering
 - Bilateral Filtering
