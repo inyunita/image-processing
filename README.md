@@ -1,5 +1,7 @@
 # image-processing-python
 
+By: Indah Yunita
+
 This repository contain some image processing using python
 
 Content:
@@ -15,3 +17,10 @@ Content:
 - Order Filtering
 
 In this content also evaluate 1000 image using MSE, RMSE, and PSNR
+
+## 2. Morphological Operation with Python
+
+- Dilasi
+- Erosi
+- Opening
+- Closing
