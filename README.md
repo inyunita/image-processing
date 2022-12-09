@@ -5,8 +5,16 @@ By: Indah Yunita
 This repository contain some image processing using python
 
 Content:
+## 1. RGB to Grayscale and Biner
 
-## 1. Image Filtering with python:
+## 2. Histogram and Image Enhancement
+
+- Kecerahan
+- Kontras
+- Kombinasi Kecerahan dan Kontras
+- Membalik Citra
+
+## 3. Image Filtering with python:
 
 - Median Filtering
 - Average Filtering
@@ -18,9 +26,20 @@ Content:
 
 In this content also evaluate 1000 image using MSE, RMSE, and PSNR
 
-## 2. Morphological Operation with Python
+## 4. Morphological Operation with Python
 
 - Dilasi
 - Erosi
 - Opening
 - Closing
+
+## 5. Ekstraksi Fitur Bentuk
+- Segmentasi
+
+## 6. Ekstraksi Fitur Warna
+- RGB to CMYK
+- RGB to YCbCr
+- RGB to HSV
+
+## 7. GLCM
+
