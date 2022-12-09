@@ -36,10 +36,12 @@ In this content also evaluate 1000 image using MSE, RMSE, and PSNR
 ## 5. Ekstraksi Fitur Bentuk
 - Segmentasi
 
-## 6. Ekstraksi Fitur Warna
+## 6. Ekstraksi Fitur Kontur
+
+## 7. Ekstraksi Fitur Warna
 - RGB to CMYK
 - RGB to YCbCr
 - RGB to HSV
 
-## 7. GLCM
+## 8. GLCM
 
